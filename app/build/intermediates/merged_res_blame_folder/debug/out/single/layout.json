@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.filemanagement.app-mergeDebugResources-28:/layout/item_file.xml",
+        "source": "com.example.filemanagement.app-main-31:/layout/item_file.xml"
+    },
+    {
+        "merged": "com.example.filemanagement.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.filemanagement.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.filemanagement.app-mergeDebugResources-28:/layout/fragment_main.xml",
+        "source": "com.example.filemanagement.app-main-31:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.filemanagement.app-mergeDebugResources-28:/layout/fragment_content_file.xml",
+        "source": "com.example.filemanagement.app-main-31:/layout/fragment_content_file.xml"
+    },
+    {
+        "merged": "com.example.filemanagement.app-mergeDebugResources-28:/layout/dialog_create_file.xml",
+        "source": "com.example.filemanagement.app-main-31:/layout/dialog_create_file.xml"
+    }
+]
